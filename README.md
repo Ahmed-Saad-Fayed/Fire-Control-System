@@ -3,21 +3,21 @@
 This project is a Fire Detection and Warning System using an NTC Thermistor, an LCD display, a buzzer, and a red LED, all powered by an Arduino Nano. It continuously monitors temperature changes and triggers visual and audible alerts if fire conditions are detected.
 
 ## 🧰 Components Used
-Arduino Nano
+### Arduino Nano
 
-NTC Thermistor (Temperature Sensor)
+### NTC Thermistor (Temperature Sensor)
 
-16x2 LCD Display
+### 16x2 LCD Display
 
-Red LED
+### Red LED
 
-Buzzer
+### Buzzer
 
-Potentiometer (for LCD contrast)
+### Potentiometer (for LCD contrast)
 
-Breadboard & Jumper wires
+### Breadboard & Jumper wires
 
-Resistors
+### Resistors
 
 ## ⚙️ How it Works
 ### 🔸 Normal Operation:
