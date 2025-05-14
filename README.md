@@ -57,8 +57,8 @@ The thermistor is part of a voltage divider connected to an analog pin. The syst
 ### Safety monitoring for temperature-sensitive environments
 
 ## 🧪 Example Thresholds (Configurable)
-### Mode	Temperature (°C)	System Response
-### Normal	< 45°C	Display temperature only
-### Warning	45–65°C	LCD warning + buzzer
-### Critical Alert	> 65°C	LCD alert + loud buzzer + red LED
+### Mode	      Temperature (°C)          	System Response
+### Normal	            < 45°C	             Display temperature only
+### Warning      	     45–65°C	             LCD warning + buzzer
+### Critical Alert	    > 65°C	             LCD alert + loud buzzer + red LED
 
