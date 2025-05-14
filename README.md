@@ -21,23 +21,23 @@ This project is a Fire Detection and Warning System using an NTC Thermistor, an 
 
 ## ⚙️ How it Works
 ### 🔸 Normal Operation:
-The system continuously reads the ambient temperature.
+#### The system continuously reads the ambient temperature.
 
-Real-time temperature is displayed on the LCD.
+#### Real-time temperature is displayed on the LCD.
 
 ### ⚠️ Warning Mode:
-Condition: Temperature exceeds the warning threshold.
+#### Condition: Temperature exceeds the warning threshold.
 
-Action:
+#### Action:
 
 LCD shows Warning: FIRE!
 
 Buzzer emits warning beeps.
 
 ### 🚨 Critical Mode:
-Condition: Temperature exceeds the danger threshold.
+#### Condition: Temperature exceeds the danger threshold.
 
-Action:
+#### Action:
 
 LCD displays Run away now!!
 
@@ -50,11 +50,11 @@ Red LED turns on to indicate danger.
 The thermistor is part of a voltage divider connected to an analog pin. The system uses a simple logic in the Arduino sketch to classify the temperature and take action accordingly.
 
 ## 📋 Applications
-Fire detection in homes or labs
+### Fire detection in homes or labs
 
-Educational demonstrations of sensor-based systems
+### Educational demonstrations of sensor-based systems
 
-Safety monitoring for temperature-sensitive environments
+### Safety monitoring for temperature-sensitive environments
 
 ## 🧪 Example Thresholds (Configurable)
 ### Mode	Temperature (°C)	System Response
